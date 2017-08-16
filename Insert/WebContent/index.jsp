@@ -14,7 +14,9 @@
 			Enter your last name: <input type="text" name="lname"><br>
 		</p>
 		<br>
-		<p>Enter username: <input type="text" name="username"><br></p>
+		<p>
+			Enter username: <input type="text" name="username"><br>
+		</p>
 		<br>
 		<p>
 			Enter email id: <input type="text" name="emailid"><br>
